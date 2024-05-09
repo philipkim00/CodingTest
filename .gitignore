@@ -1,0 +1,11 @@
+*.ipch
+*.pdb
+*.tlog
+*.log
+*.obj
+*.json
+*.opendb
+*.vsidx
+*.ilk
+*.filters
+*.user
