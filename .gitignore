@@ -9,3 +9,10 @@
 *.ilk
 *.filters
 *.user
+*.recipe
+*.db
+*.suo
+*.db-shm
+*.idb
+*.db-wal
+*.exe
