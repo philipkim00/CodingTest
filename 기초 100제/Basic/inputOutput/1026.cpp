@@ -22,7 +22,7 @@ int main()
     // 정수 부분과 소수부분을 구분자를 기준으로 입력받는다.
     ss >> h >> delim >> m >> delim >> s;
 
-    cout << s << endl;
+    cout << m << endl;
 
     return 0;
 }
