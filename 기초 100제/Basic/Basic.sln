@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arithmeticOperations", "ari
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bitshiftOperation", "bitshiftOperation\bitshiftOperation.vcxproj", "{762741FA-B310-4D5F-9E69-942401BB4BC6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "comparisonOperation", "comparisonOperation\comparisonOperation.vcxproj", "{FBBA84D6-90B9-4A03-852E-3CD7C2C7F6C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{762741FA-B310-4D5F-9E69-942401BB4BC6}.Release|x64.Build.0 = Release|x64
 		{762741FA-B310-4D5F-9E69-942401BB4BC6}.Release|x86.ActiveCfg = Release|Win32
 		{762741FA-B310-4D5F-9E69-942401BB4BC6}.Release|x86.Build.0 = Release|Win32
+		{FBBA84D6-90B9-4A03-852E-3CD7C2C7F6C3}.Debug|x64.ActiveCfg = Debug|x64
+		{FBBA84D6-90B9-4A03-852E-3CD7C2C7F6C3}.Debug|x64.Build.0 = Debug|x64
+		{FBBA84D6-90B9-4A03-852E-3CD7C2C7F6C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{FBBA84D6-90B9-4A03-852E-3CD7C2C7F6C3}.Debug|x86.Build.0 = Debug|Win32
+		{FBBA84D6-90B9-4A03-852E-3CD7C2C7F6C3}.Release|x64.ActiveCfg = Release|x64
+		{FBBA84D6-90B9-4A03-852E-3CD7C2C7F6C3}.Release|x64.Build.0 = Release|x64
+		{FBBA84D6-90B9-4A03-852E-3CD7C2C7F6C3}.Release|x86.ActiveCfg = Release|Win32
+		{FBBA84D6-90B9-4A03-852E-3CD7C2C7F6C3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
