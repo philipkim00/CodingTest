@@ -8,6 +8,11 @@ int main()
 	while (num != 0)
 	{
 		cin >> num;
+		if (num == 0)
+		{
+			break;
+		}
+
 		cout << num << endl;
 	}
 }
